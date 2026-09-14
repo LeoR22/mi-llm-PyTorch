@@ -1,0 +1,10 @@
+El procesamiento del lenguaje natural es un campo de la inteligencia artificial.
+Los modelos de lenguaje grandes utilizan redes neuronales profundas para generar texto.
+El mecanismo de atencion permite a la red relacionar diferentes palabras en un contexto.
+Un tokenizador convierte texto continuo en una secuencia de numeros llamados tokens.
+El entrenamiento supervisado ajusta los pesos del modelo usando ejemplos de preguntas y respuestas.
+La inteligencia artificial esta transformando la ciencia, la tecnologia y la sociedad.
+Python es el lenguaje de programacion mas utilizado para desarrollar redes neuronales.
+PyTorch facilita la creacion de grafos de computacion dinamicos y el calculo de gradientes.
+Un Transformer se compone de capas de autoatencion y redes feed-forward.
+El preentrenamiento permite que el modelo aprenda la estructura sintactica y semantica del idioma.
